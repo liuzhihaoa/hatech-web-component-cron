@@ -1,0 +1,26 @@
+{
+    "name": "hatech-web-component-cron",
+    "version": "0.0.6",
+    "description": "同创前端纯组件，cron表达式组件",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "src",
+        "packages"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://git.hatech.com.cn:8088/hatech-web/hatech-web-component-cron.git"
+    },
+    "keywords": [
+        "cron",
+        "vue-cron"
+    ],
+    "author": {
+        "name": "hujiangnan",
+        "email": "hujiangnan@hatech.com.cn"
+    },
+    "license": "ISC"
+}
